@@ -3,7 +3,7 @@
       {
         "name": "Checking for warnings or errors",
         "setup": "",
-        "run": "lake env lean Quiz02.lean",
+        "run": "lake env lean Quiz.lean",
         "input" : "",
         "output": "",
         "comparison": "included",
